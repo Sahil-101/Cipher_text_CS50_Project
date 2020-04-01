@@ -12,7 +12,7 @@ gcc substitution.c -lcs50
 
 then the file would run successfully. :)
 after ./a.out is the command line argument which is to be provided without spaces and all 26 letters in any specific order.
-if not the program would through errors.
+if not the program would throw errors.
 
 Happy Coding 
 :)
